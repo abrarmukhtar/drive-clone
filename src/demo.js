@@ -3,7 +3,7 @@ import React from 'react'
 export default function demo() {
     return (
         <div>
-            demo
+            demo using git hub
         </div>
     )
 }
